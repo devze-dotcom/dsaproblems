@@ -4,20 +4,20 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/)
 [![Beecrowd](https://img.shields.io/badge/-Beecrowd-000000?logo=beecrowd&logoColor=white)](https://www.beecrowd.com.br/)
 
-Bem-vindo ao meu repositório de Estruturas de Dados e Algoritmos! 🧠💻
+Welcome to my Data Structures and Algorithms repository! 🧠💻
 
-Este repositório serve como um diário do meu progresso na resolução de problemas de programação competitiva e preparação para entrevistas de Engenharia de Software. Aqui você encontrará minhas soluções para desafios de plataformas como **LeetCode** e **Beecrowd**.
+This repository serves as a log of my progress in solving competitive programming problems and preparing for Software Engineering interviews. Here you will find my solutions to algorithmic challenges from platforms like **LeetCode** and **Beecrowd**.
 
-## 🎯 Objetivos
+## 🎯 Objectives
 
-* Aprimorar a lógica de programação e pensamento computacional.
-* Dominar Estruturas de Dados (Arrays, Listas Ligadas, Árvores, Grafos, Hash Tables, etc.).
-* Praticar a implementação de Algoritmos clássicos (Busca, Ordenação, Programação Dinâmica, Greedy, etc.).
-* Analisar a complexidade de tempo e espaço (Notação Big-O) de diferentes abordagens.
+* Improve programming logic and computational thinking.
+* Master core Data Structures (Arrays, Linked Lists, Trees, Graphs, Hash Tables, etc.).
+* Practice the implementation of classic Algorithms (Search, Sorting, Dynamic Programming, Greedy, etc.).
+* Analyze the time and space complexity (Big-O Notation) of different approaches.
 
-## 📂 Estrutura do Repositório
+## 📂 Repository Structure
 
-Os problemas estão organizados por plataforma e, em seguida, por dificuldade ou categoria. 
+The problems are organized by platform, and then by difficulty or category.
 
 ```text
 📦 dsa-problems
@@ -28,8 +28,8 @@ Os problemas estão organizados por plataforma e, em seguida, por dificuldade ou
  ┃ ┃ ┗ 📜 0003-longest-substring.java
  ┃ ┗ 📂 Hard
  ┣ 📂 Beecrowd
- ┃ ┣ 📂 Iniciante
- ┃ ┃ ┗ 📜 1001-extremamente-basico.py
+ ┃ ┣ 📂 Beginner
+ ┃ ┃ ┗ 📜 1001-extremely-basic.py
  ┃ ┣ 📂 Ad-Hoc
- ┃ ┗ 📂 Estruturas-e-Bibliotecas
+ ┃ ┗ 📂 Data-Structures-and-Libraries
  ┗ 📜 README.md
